@@ -52,5 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void NewMethod(){
         String text = "text";
+
+        String text1 = "brance one text";
     }
 }
